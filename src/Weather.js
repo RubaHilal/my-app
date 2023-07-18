@@ -1,6 +1,9 @@
 import React, { useState } from "react";
 import axios from "axios";
 
+import "./Weather";
+
+
 export default function SearchEngine(props) {
 	let [city, setCity] = useState("");
 	let [temperature, setTemperature] = useState("");
