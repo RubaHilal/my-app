@@ -113,7 +113,7 @@ export default function SearchEngine(props) {
 						</a>{" "}
 						and{" "}
 						<a
-							href="https://stirring-torrone-676e50.netlify.app/"
+							href="https://benevolent-mochi-a329f2.netlify.app"
 							target="_blank"
 							rel="noopener noreferrer">
 							hosted on Netlify
