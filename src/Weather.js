@@ -106,7 +106,7 @@ export default function SearchEngine(props) {
 						</a>{" "}
 						and is{" "}
 						<a
-							href="https://github.com/RubaHilal/Weather-App"
+							href="https://github.com/RubaHilal/my-app"
 							target="_blank"
 							rel="noopener noreferrer">
 							open-sourced on GitHub
